@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tarea6.dir/tarea6.cpp.o -o tarea6 

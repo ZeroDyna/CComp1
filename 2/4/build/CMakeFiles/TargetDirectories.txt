@@ -1,0 +1,3 @@
+/home/delusion7/Documentos/Uni/ccomp/CComp1/2/4/build/CMakeFiles/tarea4.dir
+/home/delusion7/Documentos/Uni/ccomp/CComp1/2/4/build/CMakeFiles/edit_cache.dir
+/home/delusion7/Documentos/Uni/ccomp/CComp1/2/4/build/CMakeFiles/rebuild_cache.dir
