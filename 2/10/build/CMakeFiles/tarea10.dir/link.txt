@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tarea10.dir/tarea10.cpp.o -o tarea10 
